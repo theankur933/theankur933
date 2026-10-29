@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <!--
   GitHub Profile README
   Username: theankur933
@@ -27,9 +24,9 @@
     <img src="https://img.shields.io/badge/GitHub-theankur933-181717?style=flat&logo=github" alt="GitHub profile" />
   </a>
   <!-- Replace the placeholder below with your portfolio URL -->
-  <a href="[YOUR_PORTFOLIO_URL]">
+  <!-- <a href="[YOUR_PORTFOLIO_URL]">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio website" />
-  </a>
+  </a> -->
 </p>
 
 </div>
