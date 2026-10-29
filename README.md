@@ -11,7 +11,7 @@
 
 # 👋 Hey, I'm Ankur!
 
-### 💻 Web Dev Engineer
+### 💻 Web Dev Engineer | Problem Solver
 
 <a href="https://github.com/theankur933">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;Crafting+Responsive+Websites;HTML+%7C+CSS+%7C+JavaScript;Turning+Ideas+Into+Reality" alt="Animated introduction" />
