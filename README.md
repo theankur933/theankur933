@@ -11,7 +11,7 @@
 
 # 👋 Hey, I'm Ankur!
 
-### 💻 Experienced Web Developer | Frontend Developer
+### 💻 Web Dev Engineer
 
 <a href="https://github.com/theankur933">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences;Crafting+Responsive+Websites;HTML+%7C+CSS+%7C+JavaScript;Turning+Ideas+Into+Reality" alt="Animated introduction" />
@@ -38,7 +38,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm **Ankur**, a Web Developer passionate about creating modern, responsive, and user-friendly web experiences.
+Hey there! I'm **Ankur**, a Web Dev Engineer passionate about creating modern, responsive, and user-friendly web experiences.
 
 - 💻 Focused on building clean and functional websites.
 - 🎨 Interested in modern UI design and responsive layouts.
@@ -65,6 +65,18 @@ Hey there! I'm **Ankur**, a Web Developer passionate about creating modern, resp
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=npm" height="50" alt="NPM" />
+  </a>
 </p>
 
 ### Tools & Workflow
@@ -78,19 +90,7 @@ Hey there! I'm **Ankur**, a Web Developer passionate about creating modern, resp
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<a href="https://github.com/theankur933">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=theankur933&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ankur's GitHub statistics" />
-</a>
-
-<a href="https://github.com/theankur933">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theankur933&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-</a>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=theankur933&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
 </div>
 
 ---
@@ -101,23 +101,13 @@ Hey there! I'm **Ankur**, a Web Developer passionate about creating modern, resp
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🌐 Web Project One</h3>
+    <td width="100%">
+      <h3 align="center">Git Repository</h3>
       <p align="center">
-        A responsive website built with HTML, CSS, and JavaScript.
+        A responsive website built with HTML, CSS, JavaScript, React, Bootstrap, and Tailwind etc.
         <br/><br/>
-        <a href="[YOUR_PROJECT_1_REPOSITORY_URL]">
-          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View project one" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">✨ Web Project Two</h3>
-      <p align="center">
-        An interactive web experience focused on usability and design.
-        <br/><br/>
-        <a href="[YOUR_PROJECT_2_REPOSITORY_URL]">
-          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View project two" />
+        <a href="https://github.com/theankur933?tab=repositories">
+          <img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" alt="View project" />
         </a>
       </p>
     </td>
@@ -146,11 +136,11 @@ Hey there! I'm **Ankur**, a Web Developer passionate about creating modern, resp
 
 <!-- Add your real profile links before publishing -->
 
-<a href="[YOUR_LINKEDIN_PROFILE_URL]">
+<a href="https://in.linkedin.com/in/ankur-kharwar-522752200">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="mailto:[YOUR_EMAIL_ADDRESS]">
+<a href="mailto:theankurkharwar933@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
