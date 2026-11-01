@@ -39,7 +39,7 @@ Hey there! I'm **Ankur**, a Web Dev Engineer passionate about creating modern, r
 
 - 💻 Focused on building clean and functional websites.
 - 🎨 Interested in modern UI design and responsive layouts.
-- ⚡ Working with HTML, CSS, and JavaScript.
+- ⚡ Working with HTML, CSS, JavaScript and React.js.
 - 🧩 Enjoy solving problems and improving website performance.
 - 🌱 Always exploring new tools, techniques, and web technologies.
 - 🤝 Open to collaboration, interesting projects, and learning opportunities.
@@ -62,16 +62,19 @@ Hey there! I'm **Ankur**, a Web Dev Engineer passionate about creating modern, r
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <a href="https://react.dev/learn">
     <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <a href="https://redux.js.org/toolkit/introduction/getting-started">
+    <img src="https://skillicons.dev/icons?i=redux" height="50" alt="Redux Toolkit" />
+  </a>
+  <a href="https://getbootstrap.com/docs/6.0/getting-started/install/">
     <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <a href="https://tailwindcss.com/docs/installation/using-vite">
     <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <a href="https://www.npmjs.com/">
     <img src="https://skillicons.dev/icons?i=npm" height="50" alt="NPM" />
   </a>
 </p>
