@@ -82,7 +82,7 @@ Hey there! I'm **Ankur**, a Web Dev Engineer passionate about creating modern, r
 ### Tools & Workflow
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Redux, and VS Code" />
 </p>
 
 ---
