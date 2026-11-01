@@ -65,9 +65,6 @@ Hey there! I'm **Ankur**, a Web Dev Engineer passionate about creating modern, r
   <a href="https://react.dev/learn">
     <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
   </a>
-  <a href="https://redux.js.org/toolkit/introduction/getting-started">
-    <img src="https://skillicons.dev/icons?i=redux" height="50" alt="Redux Toolkit" />
-  </a>
   <a href="https://getbootstrap.com/docs/6.0/getting-started/install/">
     <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="Bootstrap" />
   </a>
@@ -82,7 +79,7 @@ Hey there! I'm **Ankur**, a Web Dev Engineer passionate about creating modern, r
 ### Tools & Workflow
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,redux" alt="Git, GitHub, Redux, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,redux,postman,jira" alt="Git, GitHub, Redux, Postman, Jira and VS Code" />
 </p>
 
 ---
